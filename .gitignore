@@ -1,0 +1,7 @@
+*.zip
+*.mrpack
+packwiz.exe
+
+*.md
+!CREDITS.md
+!README.md
