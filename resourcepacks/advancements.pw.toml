@@ -1,0 +1,13 @@
+name = "Icons - Advancements"
+filename = "Icons - Advancements v.1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bUREHqer/versions/zbEmkv5v/Icons%20-%20Advancements%20v.1.0.zip"
+hash-format = "sha512"
+hash = "49c4e6c6f7a23bc55d438fd8fa56583ebe2c27c1b51fdfd4b8ea558aed17f2f3eefdc721c16eaa63615a7702f09830d49328274c7fae02c36836b39ef50e5b40"
+
+[update]
+[update.modrinth]
+mod-id = "bUREHqer"
+version = "zbEmkv5v"

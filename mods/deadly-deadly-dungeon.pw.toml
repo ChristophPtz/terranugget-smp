@@ -1,0 +1,14 @@
+name = "Deadly Deadly Dungeon"
+filename = "deadly-deadly-dungeon-1.0.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1POBnTh/versions/PqVSYQW2/deadly-deadly-dungeon-1.0.5.4.jar"
+hash-format = "sha512"
+hash = "63ed434b04eb2570145d828ea3a77e8c26e3a0ddae0b985a99616b48998ecb7cce03c2a3b60bc62790e799e1791750b1f826aea234b773fc83de19d237c38feb"
+
+[update]
+[update.modrinth]
+mod-id = "H1POBnTh"
+version = "PqVSYQW2"
+

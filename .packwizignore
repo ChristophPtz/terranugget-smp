@@ -1,7 +1,11 @@
-packwiz.exe
-LICENSE
+utils*
 *.md
 *.exe
 *.bat
+*.sh
+*.ps1
 *.jar
 *.url
+
+!LICENSE
+!CREDITS.md

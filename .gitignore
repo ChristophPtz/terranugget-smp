@@ -1,6 +1,9 @@
-*.zip
+utils*
 *.mrpack
-packwiz.exe
+*.exe
+*.ps1
+*.sh
+*.bat
 
 *.md
 !CREDITS.md

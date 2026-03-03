@@ -1,0 +1,14 @@
+name = "Voice Chat - Global Spectator Chat"
+filename = "global-spectator-vc-fabric-1.21.11-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qULIS7Hc/versions/4pvHk6hk/global-spectator-vc-fabric-1.21.11-1.0.1.jar"
+hash-format = "sha512"
+hash = "aaa12cccb3faa37fd4b6347a8170cdb4e74e1d830ad35af556b957b4a578f766524b3261875e28ffc280c684d7c61f6e922d6d6b839dfe0516c249ca090fadf9"
+
+[update]
+[update.modrinth]
+mod-id = "qULIS7Hc"
+version = "4pvHk6hk"
+

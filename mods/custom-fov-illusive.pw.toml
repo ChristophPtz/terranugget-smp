@@ -1,0 +1,14 @@
+name = "Custom FOV"
+filename = "customfov-fabric-12.0.0+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZAcFHLd/versions/R86WenIQ/customfov-fabric-12.0.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "3c31e6f59afc00ea7c41e4fabf5ec96405f0d314c0e6665150667b48fff12913d7214aefc009bc7459f0fbde300c8961b82c1e41264b3c6f4d945b7832904f38"
+
+[update]
+[update.modrinth]
+mod-id = "uZAcFHLd"
+version = "R86WenIQ"
+
