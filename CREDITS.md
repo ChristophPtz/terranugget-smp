@@ -1,7 +1,9 @@
-# Credits
-- **[Packwiz](https://packwiz.infra.link/)**
-- **[Fabric](https://fabricmc.net/)**
-- **[Vanilla Tweaks](https://vanillatweaks.net/)**
+# 📜 Credits & Attributions
+
+- **[Packwiz](https://packwiz.infra.link/)** – Used to maintain this pack
+- **[Fabric](https://fabricmc.net/)** – Core platform for the modpack
+- **[Vanilla Tweaks](https://vanillatweaks.net/)** – Selected resource packs, datapacks and datapacks used to enhance the "Vanilla+" experience
+* **Individual Mod Authors** – All included mods are the property of their respective creators.
 
 ## Mods
 - [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn) by **tr7zw**
@@ -180,4 +182,4 @@
 - [Icons](https://modrinth.com/mod/O7z3QKAG) by **Zartrix**
 
 ### Modpack Editors
-- **ChrizziNugGet** — Author of **TerraNugget SMP**
+- **[ChrizziNugGet](https://modrinth.com/user/ChrizziNugGet)** — Author of **TerraNugget SMP**
