@@ -599,10 +599,6 @@ file = "mods/vtdownloader.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/wakes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 metafile = true
 

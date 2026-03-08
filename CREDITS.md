@@ -154,7 +154,6 @@
 - [Voice Chat Interaction](https://modrinth.com/mod/qsSP2ZZ0) by **henkelmax**
 - [voxy](https://modrinth.com/mod/fxxUqruK) by **cortex**
 - [VTDownloader](https://modrinth.com/mod/1E2sq1cp) by **IotaBread**
-- [Wakes](https://modrinth.com/mod/dlNu0RQY) by **Goby56**
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) by **thexaero**
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) by **thexaero**
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) by **Sunekaer**
