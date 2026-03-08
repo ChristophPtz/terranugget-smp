@@ -31,7 +31,6 @@
 - [Carpet TIS Addition](https://modrinth.com/mod/jE0SjGuf) by **fallen-breath**
 - [Carpet](https://modrinth.com/mod/TQTTVgYE) by **altrisi**
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by **dzwdz**
-- [Chat Signing Hider](https://modrinth.com/mod/6KrNtW32) by **henkelmax**
 - [Chunky](https://modrinth.com/mod/fALzjamp) by **pop4959**
 - [CICADA](https://modrinth.com/mod/IwCkru1D) by **enjarai**
 - [ClickThrough Plus](https://modrinth.com/mod/fJi8nm80) by **Cassian**
@@ -92,7 +91,6 @@
 - [Locator Lodestones](https://modrinth.com/mod/pMBcsVIg) by **Pneumono_**
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by **masa**
 - [Map Distance Fix](https://modrinth.com/mod/51BNNAng) by **MrErenK**
-- [McQoy](https://modrinth.com/mod/tNmWwdI2) by **sisby-folk**
 - [MiniHUD](https://modrinth.com/mod/UMxybHE8) by **masa**
 - [MixinTrace Reloaded [UNOFFICIAL]](https://modrinth.com/mod/wx2WW8va) by **1Influence**
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by **modmuss50**

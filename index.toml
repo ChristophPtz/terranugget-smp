@@ -103,10 +103,6 @@ file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chat-signing-hider.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 metafile = true
 
@@ -344,10 +340,6 @@ metafile = true
 
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mcqoy.pw.toml"
 metafile = true
 
 [[files]]
