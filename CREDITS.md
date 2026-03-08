@@ -69,7 +69,7 @@
 - [FastQuit](https://modrinth.com/mod/x1hIzbuY) by **contaria**
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by **malte0811**
 - [Flashback](https://modrinth.com/mod/4das1Fjq) by **Moulberry**
-- [FrozenLib](https://modrinth.com/mod/9KawNmQc)
+- [FrozenLib](https://modrinth.com/mod/9KawNmQc) by **FrozenBlock**
 - [Here 'n' There](https://modrinth.com/mod/CdTnUpve) by **NotRyken**
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by **RaphiMC**
 - [Improved Village Placement](https://modrinth.com/mod/KA0MllEw) by **Apollo**
@@ -101,7 +101,7 @@
 - [NoisiumForked](https://modrinth.com/mod/hasdd01q) by **Coredex**
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) by **tr7zw**
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by **natanfudge**
-- [Nullscape](https://modrinth.com/mod/LPjGiSO4)
+- [Nullscape](https://modrinth.com/mod/LPjGiSO4) by **Stardust Labs**
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by **opekope2**
 - [Particle Effects](https://modrinth.com/mod/PLAGcSFJ) by **LopyMine**
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by **PigCart**
