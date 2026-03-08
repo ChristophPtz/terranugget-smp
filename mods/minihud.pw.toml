@@ -13,8 +13,7 @@ mod-id = "UMxybHE8"
 version = "LTpNG9hs"
 
 [option]
+# MiniHUD
 optional = true
 default = true
 description = "A client mod that adds a lot of useful HUD elements, such as a clock"
-
-# TechUtils

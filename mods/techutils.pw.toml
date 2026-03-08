@@ -13,8 +13,7 @@ mod-id = "hNoAJSm7"
 version = "h1TJRawI"
 
 [option]
+# TechUtils
 optional = true
 default = false
 description = "Tech Utils is a mod providing client-side tweaks for Litematica, WorldEdit and other small utilities."
-
-# Tweakeroo

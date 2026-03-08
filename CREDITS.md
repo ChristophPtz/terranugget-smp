@@ -12,6 +12,7 @@
 - [Amplified Nether](https://modrinth.com/mod/wXiGiyGX) by **Stardust Labs**
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by **squeek502**
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ) by **MaxNeedsSnacks**
+- [Areas](https://modrinth.com/mod/NWvsqJ2Z) by **Serilum**
 - [Armor Hider](https://modrinth.com/mod/GgG2my3y) by **zannagh**
 - [Armor Poser](https://modrinth.com/mod/PFwYNrHb) by **Mrbysco**
 - [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) by **henkelmax**
@@ -47,6 +48,13 @@
 - [Default Options](https://modrinth.com/mod/WEg59z5b) by **BlayTheNinth**
 - [Disconnect Packet Fix](https://modrinth.com/mod/rd9rKuJT) by **ascpixi**
 - [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) by **enjarai**
+- [Dungeons and Taverns Desert Temple Overhaul](https://modrinth.com/mod/7JTDDmRT) by **NovaWostra**
+- [Dungeons and Taverns Jungle Temple Overhaul](https://modrinth.com/mod/oHjYCS0f) by **NovaWostra**
+- [Dungeons and Taverns Ocean Monument Overhaul](https://modrinth.com/mod/z6GJ3ycD) by **NovaWostra**
+- [Dungeons and Taverns Pillager Outpost Overhaul](https://modrinth.com/mod/QIt10I7z) by **NovaWostra**
+- [Dungeons and Taverns Stronghold Overhaul LITE edition](https://modrinth.com/mod/LbGT0kSV) by **NovaWostra**
+- [Dungeons and Taverns Swamp Hut Overhaul](https://modrinth.com/mod/nWSeFpQt) by **NovaWostra**
+- [Dungeons and Taverns Woodland Mansion Overhaul](https://modrinth.com/mod/3GfxWFCy) by **NovaWostra**
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) by **NovaWostra**
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by **juliand665**
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by **vgskye**
@@ -60,6 +68,7 @@
 - [FastQuit](https://modrinth.com/mod/x1hIzbuY) by **contaria**
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by **malte0811**
 - [Flashback](https://modrinth.com/mod/4das1Fjq) by **Moulberry**
+- [FrozenLib](https://modrinth.com/mod/9KawNmQc)
 - [Here 'n' There](https://modrinth.com/mod/CdTnUpve) by **NotRyken**
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by **RaphiMC**
 - [Improved Village Placement](https://modrinth.com/mod/KA0MllEw) by **Apollo**
@@ -68,6 +77,7 @@
 - [Item Scroller](https://modrinth.com/mod/JygyCSA4) by **masa**
 - [ItemSwapper](https://modrinth.com/mod/RPOSBQgq) by **tr7zw**
 - [JamLib](https://modrinth.com/mod/IYY9Siz8) by **Jam Core**
+- [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/blWBX5n1) by **kennytv**
 - [Krypton](https://modrinth.com/mod/fQEb0iXm) by **astei**
 - [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) by **LambdAurora**
 - [Language Reload](https://modrinth.com/mod/uLbm7CG6) by **Jerozgen**
@@ -94,11 +104,13 @@
 - [NoisiumForked](https://modrinth.com/mod/hasdd01q) by **Coredex**
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) by **tr7zw**
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by **natanfudge**
+- [Nullscape](https://modrinth.com/mod/LPjGiSO4)
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by **opekope2**
 - [Particle Effects](https://modrinth.com/mod/PLAGcSFJ) by **LopyMine**
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by **PigCart**
 - [Particle Tweaks](https://modrinth.com/mod/IlGAhsOM) by **Lunade**
 - [Peek](https://modrinth.com/mod/TnOXNf5e) by **henkelmax**
+- [Ping Wheel](https://modrinth.com/mod/QQXAdCzh) by **Luken**
 - [PneumonoCore](https://modrinth.com/mod/ZLKQjA7t) by **Pneumono_**
 - [Polymer](https://modrinth.com/mod/xGdtZczs) by **Patbox**
 - [Rail Placement Fix](https://modrinth.com/mod/7z0IZqoa) by **2No2Name**
@@ -107,6 +119,7 @@
 - [Resource Pack Overrides](https://modrinth.com/mod/YsFycamt) by **Fuzs**
 - [Respackopts](https://modrinth.com/mod/TiF5QWZY) by **JFronny**
 - [Runtime Hash Updater](https://modrinth.com/mod/YoRtMPzM) by **robotmonkey1000**
+- [Scaffolding Drops Nearby](https://modrinth.com/mod/uO522mgw) by **Serilum**
 - [Scribble](https://modrinth.com/mod/yXAvIk0x) by **chrrs**
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) by **jaredlll08**
 - [Server Resourcepack Checker](https://modrinth.com/mod/fCpuZIcM) by **henkelmax**
@@ -133,6 +146,7 @@
 - [Text Placeholder API](https://modrinth.com/mod/eXts2L7r) by **Patbox**
 - [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) by **getchoo**
 - [Tightfire](https://modrinth.com/mod/jExZM2Rj) by **AmyMialee**
+- [Trade Cycling](https://modrinth.com/mod/qpPoAL6m) by **henkelmax**
 - [TweakerMore](https://modrinth.com/mod/GBeCx05I) by **fallen-breath**
 - [Tweakeroo](https://modrinth.com/mod/t5wuYk45) by **masa**
 - [UniLib](https://modrinth.com/mod/nT86WUER) by **CDAGaming**

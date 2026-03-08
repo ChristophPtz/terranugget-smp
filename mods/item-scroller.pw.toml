@@ -13,8 +13,7 @@ mod-id = "JygyCSA4"
 version = "FcppMcft"
 
 [option]
+# Item Scroller
 optional = true
 default = false
 description = "A client mod that adds many shortcuts to move items easier and craft faster in inventory screens."
-
-# Item Swapper

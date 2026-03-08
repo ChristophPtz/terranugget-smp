@@ -13,8 +13,7 @@ mod-id = "bEpr0Arc"
 version = "7LGBHMu9"
 
 [option]
+# Litematica
 optional = true
 default = true
 description = "A client-side schematic mod with extra features for creative mode work and building in general."
-
-# MiniHUD

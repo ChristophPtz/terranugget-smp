@@ -13,8 +13,7 @@ mod-id = "t5wuYk45"
 version = "fpfkwRe2"
 
 [option]
+# Tweakeroo
 optional = true
 default = true
 description = "Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc."
-
-#Tweakermore

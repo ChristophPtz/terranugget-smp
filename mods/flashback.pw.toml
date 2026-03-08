@@ -12,3 +12,8 @@ hash = "a2fe722e2501098dc0a21f2decb25d3d2533332fb3e7a59e6a3f077e32fd1af8f0f63abc
 mod-id = "4das1Fjq"
 version = "DDcDAzpe"
 
+[option]
+# Flashback
+optional = true
+default = true
+description = "Record your Minecraft gameplay, play it back and create stunning cinematic shots"

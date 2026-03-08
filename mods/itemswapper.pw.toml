@@ -13,8 +13,7 @@ mod-id = "RPOSBQgq"
 version = "mToG8S6G"
 
 [option]
+# Item Swapper
 optional = true
 default = true
 description = "Inventory update concept for hotswapping items."
-
-#Litematica
