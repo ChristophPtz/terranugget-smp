@@ -363,10 +363,6 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 metafile = true
 

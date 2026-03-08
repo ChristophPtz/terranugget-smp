@@ -95,7 +95,6 @@
 - [MixinTrace Reloaded [UNOFFICIAL]](https://modrinth.com/mod/wx2WW8va) by **1Influence**
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by **modmuss50**
 - [ModernFix-mVUS](https://modrinth.com/mod/TjSm1wrD) by **Coredex**
-- [More Chat History](https://modrinth.com/mod/8qkXwOnk) by **JackFred**
 - [More Culling](https://modrinth.com/mod/51shyZVL) by **FX**
 - [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) by **mt1006**
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by **Aizistral**
