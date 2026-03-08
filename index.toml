@@ -58,6 +58,9 @@ file = "config/modpack_defaults/config/malilib.json"
 file = "config/modpack_defaults/config/minihud.json"
 
 [[files]]
+file = "config/modpack_defaults/config/modmenu.json"
+
+[[files]]
 file = "config/modpack_defaults/config/particlerain/config.json"
 
 [[files]]
@@ -528,10 +531,6 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/no-realms-button.pw.toml"
 metafile = true
 
 [[files]]

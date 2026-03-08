@@ -98,7 +98,6 @@
 - [More Culling](https://modrinth.com/mod/51shyZVL) by **FX**
 - [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) by **mt1006**
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by **Aizistral**
-- [No Realms Button](https://modrinth.com/mod/AMMUyCdF) by **Tigercrl**
 - [NoisiumForked](https://modrinth.com/mod/hasdd01q) by **Coredex**
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) by **tr7zw**
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by **natanfudge**
