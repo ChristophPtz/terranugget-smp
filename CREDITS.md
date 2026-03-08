@@ -172,7 +172,6 @@
 - [Fresh Animations: Player Extension](https://modrinth.com/mod/TAIMVZCL) by **FreshLX**
 - [Fresh Animations: Quivers](https://modrinth.com/mod/T4pK4GiQ) by **FreshLX**
 - [Fresh Animations](https://modrinth.com/mod/50dA9Sha) by **FreshLX**
-- [Icons - Advancements](https://modrinth.com/mod/bUREHqer) by **mr_ch0c0late**
 - [Icons](https://modrinth.com/mod/O7z3QKAG) by **Zartrix**
 
 ### Modpack Editors

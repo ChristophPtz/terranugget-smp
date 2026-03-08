@@ -7,6 +7,162 @@ file = "CREDITS.md"
 file = "LICENSE"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
+file = "config/modpack_defaults/config/advancements_reloaded.json"
+
+[[files]]
+file = "config/modpack_defaults/config/appleskin.json5"
+
+[[files]]
+file = "config/modpack_defaults/config/betterf3.json"
+
+[[files]]
+file = "config/modpack_defaults/config/bundles_beyond.json"
+
+[[files]]
+file = "config/modpack_defaults/config/chat_heads.json5"
+
+[[files]]
+file = "config/modpack_defaults/config/debugify.json"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+
+[[files]]
+file = "config/modpack_defaults/config/itemscroller.json"
+
+[[files]]
+file = "config/modpack_defaults/config/lambdabettergrass.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/litematica.json"
+
+[[files]]
+file = "config/modpack_defaults/config/locator-heads.json"
+
+[[files]]
+file = "config/modpack_defaults/config/locator_lodestones.json"
+
+[[files]]
+file = "config/modpack_defaults/config/malilib.json"
+
+[[files]]
+file = "config/modpack_defaults/config/minihud.json"
+
+[[files]]
+file = "config/modpack_defaults/config/particlerain/config.json"
+
+[[files]]
+file = "config/modpack_defaults/config/particletweaks.json5"
+
+[[files]]
+file = "config/modpack_defaults/config/pingwheel.json"
+
+[[files]]
+file = "config/modpack_defaults/config/scribble.client.json"
+
+[[files]]
+file = "config/modpack_defaults/config/shulkerboxtooltip.json5"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-extra-options.json"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-options.json"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-shadowy-path-blocks-options.json"
+
+[[files]]
+file = "config/modpack_defaults/config/techutils.json"
+
+[[files]]
+file = "config/modpack_defaults/config/tweakermore.json"
+
+[[files]]
+file = "config/modpack_defaults/config/tweakeroo.json"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/client.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/common.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/profiles/default.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/server_profiles/default.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/client.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/common.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/default_radar_categories_client.json"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/default_radar_categories_server.json"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/default.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/server_profiles/default.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/client.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/common.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/profiles/default.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/server_profiles/default.cfg"
+
+[[files]]
+file = "config/modpack_defaults/config/xaerohud.txt"
+
+[[files]]
+file = "config/modpack_defaults/customfov.txt"
+
+[[files]]
+file = "config/modpack_defaults/resourcepacks/Icons v.1.13.2.zip.rpo"
+
+[[files]]
+file = "config/modpack_defaults/resourcepacks/§8§lDarkmode §f§lColourful Containers§8.zip.rpo"
+
+[[files]]
+file = "config/modpack_defaults/resourcepacks/§lColourful Containers§8.zip.rpo"
+
+[[files]]
+file = "config/modpack_defaults/shaderpacks/I Like Vanilla v1.3.1.zip.txt"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+
+[[files]]
+file = "config/simpleupdatechecker_modpack.json"
+
+[[files]]
 file = "datapacks/name-formatting-station-datapack.pw.toml"
 metafile = true
 
@@ -626,10 +782,6 @@ file = "resourcepacks/VanillaTweaks_Default_MC1.21.x.zip"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_OreBorders_MC1.21.x.zip"
-
-[[files]]
-file = "resourcepacks/advancements.pw.toml"
-metafile = true
 
 [[files]]
 file = "resourcepacks/chat+.pw.toml"

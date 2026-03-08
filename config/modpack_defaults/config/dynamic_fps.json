@@ -1,0 +1,10 @@
+{
+  "states": {
+    "unfocused": {
+      "graphics_state": "reduced"
+    },
+    "invisible": {
+      "graphics_state": "reduced"
+    }
+  }
+}
