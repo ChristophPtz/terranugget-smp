@@ -102,7 +102,6 @@
 - [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) by **mt1006**
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by **Aizistral**
 - [No Realms Button](https://modrinth.com/mod/AMMUyCdF) by **Tigercrl**
-- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) by **kb1000**
 - [NoisiumForked](https://modrinth.com/mod/hasdd01q) by **Coredex**
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) by **tr7zw**
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by **natanfudge**
@@ -136,7 +135,6 @@
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) by **Rynnavinx**
 - [Sodium](https://modrinth.com/mod/AANobbMI) by **IMS**
 - [Sort It Out!](https://modrinth.com/mod/jcOSOvm1) by **Jam Core**
-- [Sound Controller](https://modrinth.com/mod/uY9zbflw) by **BVengo**
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) by **henkelmax**
 - [spark](https://modrinth.com/mod/l6YH9Als) by **lucko**
 - [Structurify](https://modrinth.com/mod/yz7AM2zx) by **faboslav**

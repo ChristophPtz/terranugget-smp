@@ -391,10 +391,6 @@ file = "mods/no-realms-button.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/noisiumforked.pw.toml"
 metafile = true
 
@@ -524,10 +520,6 @@ metafile = true
 
 [[files]]
 file = "mods/sort-it-out.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sound-controller.pw.toml"
 metafile = true
 
 [[files]]
