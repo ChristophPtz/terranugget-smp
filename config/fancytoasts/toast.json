@@ -1,0 +1,10 @@
+{
+  "textureId": "fancytoasts:textures/toast/landspaper.png",
+  "animationId": "fancytoasts:animations/toast/quirky",
+  "soundIds": {
+    "TASK": "minecraft:block.amethyst_block.chime",
+    "GOAL": "minecraft:item.trident.return",
+    "CHALLENGE": "minecraft:ui.toast.challenge_complete"
+  },
+  "version": 1
+}

@@ -16,6 +16,15 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/defaultoptions/options.txt"
 
 [[files]]
+file = "config/fancytoasts/general.json"
+
+[[files]]
+file = "config/fancytoasts/toast.json"
+
+[[files]]
+file = "config/fancytoasts/toast_filtering.json"
+
+[[files]]
 file = "config/modpack_defaults/config/advancements_reloaded.json"
 
 [[files]]
@@ -158,6 +167,12 @@ file = "config/modpack_defaults/resourcepacks/§lColourful Containers§8.zip.rpo
 
 [[files]]
 file = "config/modpack_defaults/shaderpacks/I Like Vanilla v1.3.1.zip.txt"
+
+[[files]]
+file = "config/modpack_defaults/structurify.json"
+
+[[files]]
+file = "config/modpack_defaults/tectonic.json"
 
 [[files]]
 file = "config/resourcepackoverrides.json"

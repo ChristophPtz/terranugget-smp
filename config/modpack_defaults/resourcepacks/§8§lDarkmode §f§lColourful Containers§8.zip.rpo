@@ -30,7 +30,7 @@
     },
     otherguicategory: {
         survivalinventory: "empty1",
-        inventorytype: "off",
+        inventorytype: "paper",
         recipebook: "empty1",
         recipebooktype: "green"
     },
