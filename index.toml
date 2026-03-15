@@ -237,6 +237,10 @@ file = "mods/better-block-entities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 metafile = true
 
@@ -381,6 +385,10 @@ file = "mods/e4mc.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 metafile = true
 
@@ -438,6 +446,10 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/goats-tool-trims.pw.toml"
 metafile = true
 
 [[files]]

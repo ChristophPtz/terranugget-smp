@@ -1,0 +1,13 @@
+name = "Goat's Tool Trims"
+filename = "Goats tool trims.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iN54HaV7/versions/BiCX6kKR/Goats%20tool%20trims.jar"
+hash-format = "sha512"
+hash = "6364bbd65a2d89de53a4e9fb1bcd3e96b0d531e1b1e1fa1b8ad8685343abb326ccb393822c170df256d46e4f1c250040fd03dc64c851578205794d79b2632570"
+
+[update]
+[update.modrinth]
+mod-id = "iN54HaV7"
+version = "BiCX6kKR"

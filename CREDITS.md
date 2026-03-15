@@ -22,6 +22,7 @@
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by **thosea**
 - [Balm](https://modrinth.com/mod/MBAkmtvl) by **BlayTheNinth**
 - [Better Block Entities](https://modrinth.com/mod/ONZm0H7Y) by **cseden**
+- [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) by **Gaz492**
 - [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) by **Lortseam**
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) by **TheCSDev**
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) by **TreyRuffy**
@@ -59,6 +60,7 @@
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) by **NovaWostra**
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by **juliand665**
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by **vgskye**
+- [Elytra Trims](https://modrinth.com/mod/XpzGz7KD) by **KikuGie**
 - [Entity Culling](https://modrinth.com/mod/NNAgCjsB) by **tr7zw**
 - [EssentialAddons](https://modrinth.com/mod/3WQaouc1) by **senseiwells**
 - [EssentialClient](https://modrinth.com/mod/sH0dfrKf) by **senseiwells**
@@ -70,6 +72,7 @@
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by **malte0811**
 - [Flashback](https://modrinth.com/mod/4das1Fjq) by **Moulberry**
 - [FrozenLib](https://modrinth.com/mod/9KawNmQc) by **FrozenBlock**
+- [Goat's Tool Trims](https://modrinth.com/mod/iN54HaV7) by **FloatingGoat**
 - [Here 'n' There](https://modrinth.com/mod/CdTnUpve) by **NotRyken**
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by **RaphiMC**
 - [Improved Village Placement](https://modrinth.com/mod/KA0MllEw) by **Apollo**
