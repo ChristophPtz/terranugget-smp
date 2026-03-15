@@ -62,7 +62,7 @@
       }
     },
     "giveFullInv": {
-      "keys": "G"
+      "keys": ""
     },
     "bundleFill": 1,
     "fillSafety": true
