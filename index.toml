@@ -184,6 +184,10 @@ file = "config/resourcepackoverrides.json"
 file = "config/simpleupdatechecker_modpack.json"
 
 [[files]]
+file = "datapacks/modelapplier.pw.toml"
+metafile = true
+
+[[files]]
 file = "datapacks/name-formatting-station-datapack.pw.toml"
 metafile = true
 

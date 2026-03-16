@@ -1,0 +1,13 @@
+name = "ModelApplier"
+filename = "ModelApplier-v1.6.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UPHTQ3on/versions/ESe5lXHL/ModelApplier-v1.6.3.zip"
+hash-format = "sha512"
+hash = "daa78d059c377738c76cf083c56e2d36baab7eaf095a7e939bc929299a16815ddfc9274b1785dbc656fadc2593ef5e17c963ea9b4f0e77b1152501eca3474682"
+
+[update]
+[update.modrinth]
+mod-id = "UPHTQ3on"
+version = "ESe5lXHL"

@@ -171,6 +171,7 @@
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) by **isxander**
 
 ## Datapacks
+- [ModelApplier](https://modrinth.com/mod/UPHTQ3on) by **ewanhowell5195**
 - [Name Formatting Station Datapack](https://modrinth.com/mod/1s7zUX2O) by **MukiTanuki**
 
 ## Resource Packs
