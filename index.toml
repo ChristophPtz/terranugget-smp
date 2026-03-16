@@ -553,6 +553,10 @@ file = "mods/maplink.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mc-258859.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 metafile = true
 

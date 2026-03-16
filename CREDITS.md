@@ -100,6 +100,7 @@
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by **masa**
 - [Map Distance Fix](https://modrinth.com/mod/51BNNAng) by **MrErenK**
 - [Map Link  (formerly Remote Player Waypoints for Xaero's Map)](https://modrinth.com/mod/kiByZ6gx) by **thebuildcraft**
+- [MC-258859](https://modrinth.com/mod/gzfqBTYf) by **boyonk**
 - [MiniHUD](https://modrinth.com/mod/UMxybHE8) by **masa**
 - [MixinTrace Reloaded [UNOFFICIAL]](https://modrinth.com/mod/wx2WW8va) by **1Influence**
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by **modmuss50**
