@@ -465,6 +465,10 @@ file = "mods/improved-village-placement.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/inhabitor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 metafile = true
 
@@ -526,6 +530,10 @@ metafile = true
 
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
 metafile = true
 
 [[files]]
@@ -598,6 +606,14 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmarkers.pw.toml"
 metafile = true
 
 [[files]]

@@ -76,6 +76,7 @@
 - [Here 'n' There](https://modrinth.com/mod/CdTnUpve) by **NotRyken**
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by **RaphiMC**
 - [Improved Village Placement](https://modrinth.com/mod/KA0MllEw) by **Apollo**
+- [Inhabitor](https://modrinth.com/mod/NSBscIsQ) by **henkelmax**
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U) by **coderbot**
 - [Item Model Browser](https://modrinth.com/mod/QgDZY2Yg) by **deborn**
 - [Item Scroller](https://modrinth.com/mod/JygyCSA4) by **masa**
@@ -94,6 +95,7 @@
 - [Locator Lodestones](https://modrinth.com/mod/pMBcsVIg) by **Pneumono_**
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by **masa**
 - [Map Distance Fix](https://modrinth.com/mod/51BNNAng) by **MrErenK**
+- [Map Link  (formerly Remote Player Waypoints for Xaero's Map)](https://modrinth.com/mod/kiByZ6gx) by **thebuildcraft**
 - [MiniHUD](https://modrinth.com/mod/UMxybHE8) by **masa**
 - [MixinTrace Reloaded [UNOFFICIAL]](https://modrinth.com/mod/wx2WW8va) by **1Influence**
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by **modmuss50**
@@ -111,6 +113,8 @@
 - [Particle Tweaks](https://modrinth.com/mod/IlGAhsOM) by **Lunade**
 - [Peek](https://modrinth.com/mod/TnOXNf5e) by **henkelmax**
 - [Ping Wheel](https://modrinth.com/mod/QQXAdCzh) by **Luken**
+- [Pl3xMap](https://modrinth.com/mod/34T8oVNY) by **granny**
+- [Pl3xMarkers](https://modrinth.com/mod/pL3tkgTC) by **Gjorgdy**
 - [PneumonoCore](https://modrinth.com/mod/ZLKQjA7t) by **Pneumono_**
 - [Polymer](https://modrinth.com/mod/xGdtZczs) by **Patbox**
 - [Rail Placement Fix](https://modrinth.com/mod/7z0IZqoa) by **2No2Name**
