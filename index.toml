@@ -317,6 +317,10 @@ file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom-fov-illusive.pw.toml"
 metafile = true
 
@@ -325,7 +329,15 @@ file = "mods/datapack-injector.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/deadly-deadly-dungeon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/death-backup.pw.toml"
 metafile = true
 
 [[files]]
@@ -522,6 +534,10 @@ metafile = true
 
 [[files]]
 file = "mods/locator_lodestones.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
 metafile = true
 
 [[files]]

@@ -42,13 +42,16 @@
 - [Continuity](https://modrinth.com/mod/1IjD5062) by **Pepper_Bell**
 - [Controlling](https://modrinth.com/mod/xv94TkTM) by **jaredlll08**
 - [CraftPresence](https://modrinth.com/mod/DFqQfIBR) by **CDAGaming**
+- [CraterLib](https://modrinth.com/mod/Nn8Wasaq) by **hypherionsa**
 - [Custom Biome Saplings](https://modrinth.com/mod/CYGkXnUb) by **limesplatus**
 - [Custom FOV](https://modrinth.com/mod/uZAcFHLd) by **TheIllusiveC4**
 - [Datapack Injector](https://modrinth.com/mod/9nFfpUyI) by **henkelmax**
 - [Deadly Deadly Dungeon](https://modrinth.com/mod/H1POBnTh) by **Caesius_Leo**
+- [Death Backup](https://modrinth.com/mod/Ot5JFxuv) by **Serilum**
 - [Debugify](https://modrinth.com/mod/QwxR6Gcd) by **isxander**
 - [Default Options](https://modrinth.com/mod/WEg59z5b) by **BlayTheNinth**
 - [Disconnect Packet Fix](https://modrinth.com/mod/rd9rKuJT) by **ascpixi**
+- [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) by **ErdbeerbaerLP**
 - [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) by **enjarai**
 - [Dungeons and Taverns Desert Temple Overhaul](https://modrinth.com/mod/7JTDDmRT) by **NovaWostra**
 - [Dungeons and Taverns Jungle Temple Overhaul](https://modrinth.com/mod/oHjYCS0f) by **NovaWostra**
@@ -93,6 +96,7 @@
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) by **Apollo**
 - [Locator Heads](https://modrinth.com/mod/L4pt5egz) by **Haage**
 - [Locator Lodestones](https://modrinth.com/mod/pMBcsVIg) by **Pneumono_**
+- [Maintenance Mode](https://modrinth.com/mod/QOkEkSap) by **hypherionsa**
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by **masa**
 - [Map Distance Fix](https://modrinth.com/mod/51BNNAng) by **MrErenK**
 - [Map Link  (formerly Remote Player Waypoints for Xaero's Map)](https://modrinth.com/mod/kiByZ6gx) by **thebuildcraft**
