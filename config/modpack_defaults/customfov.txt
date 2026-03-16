@@ -5,7 +5,7 @@
 1:aimingFovEffectScale:1.0
 1:flyingFovEffectScale:1.0
 1:submergedFovEffectScale:1.0
-1:fov:70
+1:fov:80
 2:fovEffectsMode:ALL
 2:speedFovEffectScale:1.0
 2:sprintingFovEffectScale:1.0
